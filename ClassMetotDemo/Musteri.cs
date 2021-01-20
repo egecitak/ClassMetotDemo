@@ -10,6 +10,6 @@ namespace ClassMetotDemo
         public int Id { get; set; }
         public string Adi { get; set; }
         public string Soyadi { get; set; }
-        public int TC { get; set; }
+        public long TC { get; set; }
     }
 }
